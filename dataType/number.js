@@ -12,7 +12,7 @@ var delta = 8 / 3;
 console.log(fortyTwo.toString());
 console.log(+delta.toFixed(1));  //+переводит в число
 console.log(delta.toFixed(1) + 4); // становится строкой + число
-console.log(+delta.toFixed(1) + 4); //+переводит в число
+console.log(+delta.toFixed(1) + 4); //+ переводит в число
 
 console.log(parseFloat(delta.toFixed(2))); // функция parse float переводит в число, работает с десятичными 2.67
 console.log(parseInt(delta.toFixed(2))); //parseInt с целыми числами 2
